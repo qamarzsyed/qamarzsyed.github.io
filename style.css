@@ -3,52 +3,22 @@
 
 body {
     background-color: #000000;
-    color: #FFFFFF;
-    font-family: sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     font-size: 16px;
-    line-height: 1.5;
-  }
-  
-  /* Header Styles */
-  
-  .header {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
+    color: #FFFFFF;
   }
   
   .profile-picture {
-    width: 50px;
-    height: 50px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
-    float: left;
-    width: 50px;
-    height: 50px;
-    margin-right: 20px;
   }
   
   .bio {
-    font-size: 14px;
-    line-height: 1.5;
+    font-size: 1.2em;
+    font-style: italic;
   }
-  
-  /* Projects Styles */
   
   .projects {
-    padding: 20px;
-  }
-  
-  .project {
-    margin-bottom: 20px;
-  }
-  
-  .project-title {
-    font-size: 18px;
     font-weight: bold;
-    margin-bottom: 10px;
-  }
-  
-  .project-description {
-    font-size: 14px;
-    line-height: 1.5;
   }
