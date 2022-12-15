@@ -8,14 +8,6 @@ body {
     color: #FFFFFF;
   }
   
-  .profile-picture {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    margin: 0 auto;
-    display: block;
-  }
-  
   .bio {
     text-align: center;
     margin-top: 20px;
